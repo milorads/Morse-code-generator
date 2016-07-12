@@ -6,7 +6,7 @@ Arduino program that converts the string from the serial input to light/sound mo
 - [Arduino IDE] Arduino IDE
 
 ### Hardware:
-- [arduino] Arduino (any board 
+- [arduino] Arduino (any board)
 - [led] LED of any color (and a resistor)
 - [buzzer] Buzzer
 
